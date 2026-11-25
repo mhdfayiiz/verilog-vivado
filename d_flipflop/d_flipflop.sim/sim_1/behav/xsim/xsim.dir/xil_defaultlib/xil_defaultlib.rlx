@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:10:42
+/home/fayiz/workshop/d_flipflop/d_flipflop.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sim_1/new/d_ff_tb.v,1789886306,verilog,,,,d_ff_tb,,,,,,,,
+/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sim_1/new/jk_ff_tb.v,1789894392,verilog,,,,jk_ff_tb,,,,,,,,
+/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sources_1/new/d_ff.v,1789885305,verilog,,/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sim_1/new/d_ff_tb.v,,d_ff,,,,,,,,
+/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sources_1/new/jk_ff.v,1789893773,verilog,,/home/fayiz/workshop/d_flipflop/d_flipflop.srcs/sim_1/new/jk_ff_tb.v,,jk_ff,,,,,,,,
